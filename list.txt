@@ -1,0 +1,2 @@
+無線新聞,http://wowza-live.edge-mo.akamai.tvb.com/newslive/smil:mobile_news_windows1.smil/playlist.m3u8?hdnea=st=1593161036~exp=1593247436~acl=/newslive/smil:mobile_news_windows1.smil/*~hmac=8f2aa7adbe186945b1685d8df7918cd0ae327e0b0ef764d1dd76feab83d6aa4c
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
